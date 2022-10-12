@@ -147,39 +147,26 @@
 ### 😎 게스트
 #### - 박경민
 #### - 윤도경
-#### - 김지환
+#### - 가을
 #### - 
 
 ## 💡 회의 주제 💡
 
-> 우리 조의 주제는 바로 <b>"일상 속 불편함"</b> 입니다!
+- 협업커뮤니티 기능 및 프로젝트 구성
 
-<table>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/74331917/190243750-404197fd-6045-47ec-b159-1b3dad0fb7f3.png" width="300" height="300"/></td>
-    <td><img src="https://user-images.githubusercontent.com/74331917/190244234-deaca732-173b-44f0-9ada-7f31f1a3bcb8.PNG" width="300" height="300"/></td>
-    <td><img src="https://user-images.githubusercontent.com/74331917/190253162-4789a866-10bf-4c0a-a2e5-7ef641d346c8.jpg" width="300" height="300"></td>
-  </tr>
-</table>
 
 ## 📅 회의 일정 및 시간 📅
 
 | 순서 | 참여 | 회의 시간 | 회의록 내용 |
 | ------ | -- | - |----------- |
-| 첫번째 회의 | ☑️ | 2022년 9월 8일 10 : 00 - 12 : 00 | 회의 주제 및 진행사항 정하기 |
-| 두번째 회의 | ☑️ | 2022년 9월 9일 9 : 00 - 10 : 00 | 브레인 스토밍 및 KJ MAPPING 설명 |
-| 세번째 회의 | ☑️ | 2022년 9월 11~12일 11 : 30 - 4 : 00 | KJ MAPPING 진행 및 여섯 모자 정리 |
-| 최종 회의 | ☑️ | 2022년 9월 13일 | 최종 정리 |
-| 발표 준비 | ☑️ | 2022년 9월 14일 | 발표 준비 |
+| 첫번째 회의 | ☑️ | 2022년 9월 26일 22 : 00 - 1 : 00 | 기획서 초안 마인드맵 |
+| 두번째 회의 | ☑️ | 2022년 9월 30일 22 : 00 - 24 : 00 | 기획서 발표용 |
+| 세번째 회의 | ☑️ | 2022년 10월 9일 24 : 00 - 3 : 00 | 브레인 스토밍 |
+| 네번째 회의 | ☑️ | 2022년 10월 10일 13 : 00 - 15 : 00 | 여섯색깔모자 |
 
 ## ✏ 회의 진행 사항 정리 ✏
-### 💬 1. 주제선정
-<img src="https://user-images.githubusercontent.com/74331917/190235072-d9977cfa-cb89-4204-ae7d-7c14e918a470.png" width="700" height="600"/>
-<a href="https://github.com/ryusongji/new-stone-king-s/tree/main/00_%ED%9A%8C%EC%9D%98%EB%A1%9D"><sub><b>회의록PDF</b></sub></a>
 
-<hr>
-
-### 💬 2. 마인드맵
+### 💬 1. 마인드맵
 
 #### 🚩정의
 - 지도를 그리듯이 하나의 키워드를 계층 구조로 표현하여 전체의 조각들 간 관계를 표시하고 정리하는 표현법
@@ -194,10 +181,12 @@
 - 주가지를 작성한 후, 부가지를 연결. 그리고 부가지의 끝에서 세부 가지를 연결
 - 각 가지당 하나의 키워드만 사용
 
-#### 🚩조원들의 개인 마인드맵
+#### 🚩 초반 기획안 관련 마인드맵
 ![image](https://user-images.githubusercontent.com/53076307/189959090-507a4922-c696-4fe1-8d82-69fa92d9da30.png)
 
 <a href="https://github.com/ryusongji/new-stone-king-s/tree/main/01_%EA%B0%9C%EC%9D%B8%20%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5"><sub><b>01_개인마인드맵 바로가기</b></sub></a>
+
+#### 🚩 유사 사이트 관련 마인드맵(사운드클라우드)
 
 <hr>
 
@@ -211,15 +200,6 @@
  - 자유분방한 생각을 하라
  - 질보다는 양
  - 결합과 개선
- 
- <a href="https://github.com/ryusongji/new-stone-king-s/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8C%8C%EC%9D%BC/%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.PNG"><sub><b>자세히보기</b></sub></a>
-
-![브레인스토밍_마인드맵_류송지](https://user-images.githubusercontent.com/74331917/190244611-d9b71869-8d22-47d1-a60c-3a7810793156.jpg)
-
-<a href="https://github.com/ryusongji/new-stone-king-s/blob/main/02_%EB%B8%8C%EB%A0%88%EC%9D%B8%20%EC%8A%A4%ED%86%A0%EB%B0%8D/%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8D_%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5_%EB%A5%98%EC%86%A1%EC%A7%80.PNG"><sub><b>자세히보기</b></sub></a>
-
-<a href="https://github.com/ryusongji/new-stone-king-s/tree/main/02_%EB%B8%8C%EB%A0%88%EC%9D%B8%20%EC%8A%A4%ED%86%A0%EB%B0%8D"><sub><b>02_브레인스토밍 바로가기</b></sub></a>
-
 <hr>
 
 ### 💬 4. KJ-MAPPING
@@ -260,30 +240,6 @@
 - 그룹핑 과정에서의 발상을 중요시한다.
 - 우선 섬을 만들어 전체를 파악하고 각 섬의 상위 레벨을 생각한다.
 
-<a href="https://github.com/ryusongji/new-stone-king-s/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8C%8C%EC%9D%BC/KJ%EA%B8%B0%EB%B2%95.png"><sub><b>자세히보기</b></sub></a>
-
-#### 🚩 KJ MAPPING 진행 과정
-<table>
-  <tr>
-    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/KJ%EB%A7%B5%ED%95%91_%EC%A7%84%ED%96%89%EA%B3%BC%EC%A0%95/KJ_1.jpg?raw=true" width="300" height="250"></td>
-    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/KJ%EB%A7%B5%ED%95%91_%EC%A7%84%ED%96%89%EA%B3%BC%EC%A0%95/KJ_3.jpg?raw=true" width="300" height="250"></td>
-    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/KJ%EB%A7%B5%ED%95%91_%EC%A7%84%ED%96%89%EA%B3%BC%EC%A0%95/KJ_4.jpg?raw=true" width="300" height="250"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/KJ%EB%A7%B5%ED%95%91_%EC%A7%84%ED%96%89%EA%B3%BC%EC%A0%95/KJ_5.jpg?raw=true" width="300" height="250"></td>
-    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/KJ%EB%A7%B5%ED%95%91_%EC%A7%84%ED%96%89%EA%B3%BC%EC%A0%95/KJ_7.jpg?raw=true" width="300" height="250"></td>
-    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/KJ%EB%A7%B5%ED%95%91_%EC%A7%84%ED%96%89%EA%B3%BC%EC%A0%95/KJ_99.jpg?raw=true" width="300" height="250"></td>
-  </tr>
-</table>
-
-#### 🚩 KJ MAPPING 최종 결과
- ![KJMAPPING](https://user-images.githubusercontent.com/53076307/189951930-ca53a64c-1496-44d9-9fc4-b408c857a6b3.jpg)
-
-<a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/KJMAPPING.jpg"><sub><b>자세히보기</b></sub></a>
-
-<a href="https://github.com/ryusongji/new-stone-king-s/tree/main/03_KJ%EA%B8%B0%EB%B2%95"><sub><b>03_KJ기법 바로가기</b></sub></a>
-
-<hr>
 
 ### 💬 5. 여섯색깔모자
  ![image](https://user-images.githubusercontent.com/53076307/189956660-53b8400f-b679-43c4-91b6-c009600d0f3d.png)
@@ -329,81 +285,7 @@
     - 스마트폰 cpu 쿨러 정보 전달
     - 결론정리
 
-<a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/%EC%97%AC%EC%84%AF%EB%AA%A8%EC%9E%90%EC%83%89%EA%B9%94%EA%B8%B0%EB%B2%95_%EC%A3%BC%EC%A0%9C1.PNG"><sub><b>자세히보기</b></sub></a>
-
-#### 📌2번 주제 : 기능성 파츠 탈부착 DIY 케이스
-- 회의 시간 : 25분
-- 서로 자신의 성격과 반대되는 모자 역할
-
-🗨 김다현🟩
-
-    - 스마트폰 크기에 따라 부품이 달라진다는 아이디어 제시
-    - 향수로 접착제 악취를 막는 아이디어 제시
-    - 벨크로 아이디어 제시
-    - 파츠 보관 아이디어 제시
-    - 맥세이프 모듈 제시
-  
-  
-🗨 박진석⬛
-
-    - 접착제의 악취 발생 이의 제기
-    - 자석의 단점을 근거로 물품 보호가 부족하다는 것을 이의 제기
-    - 파츠 여러 개에 대한 내구성과 기능성 문제 이의 제기
-    - 재사용 불가능 문제 이의 제기
-    - 무선 충전 기능 이의 제기
-  
-  
-🗨 왕인성⬜
-
-    - 아두이노 같은 정보(데이터) 전달이 가능한 부품
-    - 젤리케이스와 하드케이스에 대한 장단점 및 정보 전달
-    - 배달에 사용되는 벨크로의 정보 전달
-    - DIY에 대한 메리트 전달
-    - 중고거래 정보 전달
-    - 보관 케이스에 대한 효율성 언급
-  
-  
-🗨 류송지🟨🟦
-
-    - 노란모자🟨
-    - 접착제로 붙일 수 있는 DIY에 대한 의견
-    - 젤리케이스에 대한 의견 전달
-    - 알바 경험을 통한 실제 일어났던 일 근거로 벨크로 뒷받침
-    - 세트 상품을 통한 소비자의 니즈 충족한 것을 토대로 소비자와 생산자의 상호작용을 제시
-    - 물건 수납에 대한 긍정적 근거 제시
-    
-    - 파란모자🟦
-    - 파츠 여러개 제시
-    - 진행 및 역할에 맞지 않거나 근거가 부족한 의견 제지
-    - 주제에 벗어난 말 제지
-    - DIY에 대한 정보 전달
-    - 결론 요약 및 전달
-
-  
-🗨 김지환🟥
-
-    - DIY로 파츠를 제작하면 부품의 탈락 가능성 언급
-    - 레고로 부품 구성 시 부품의 파손 가능성 이의 제기
-    - 접착제로 부품을 붙이는 것에 대해 조립에 의미가 없어지는 것이 없는가 이의 제기
-    - 자석을 이용하는 아이디어 제시
-    - 접착제가 DIY에 부합하지 않는 다는 의견 제시
-    - 파츠가 필요한 시점을 예시로 이의 제기
-    - 파츠 교제 과정이 번거롭다는 이의 제기
-    - 가방과 파우치에 대한 이의 제기
-
-
-<a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/%EC%97%AC%EC%84%AF%EB%AA%A8%EC%9E%90%EC%83%89%EA%B9%94%EA%B8%B0%EB%B2%95_%EC%A3%BC%EC%A0%9C2%EB%B2%88.PNG"><sub><b>자세히보기</b></sub></a>
- 
-#### 😢미흡한점😢
-`자신의 성격과 반대되는 모자 역할 부분에서 어쩔수 없이 누군가는 남는 모자를 선택할 수 밖에 없는 것에 아쉬움을 느꼈다.
-성격과 반대 역할이다 보니 의견 제시에 많은 시간이 소요되고, 의견이 충분히 나오지 않아 아쉬웠다.`
-
 <hr>
 
-### 💬 6. 최종 마인드맵
+### 💬 6. 최종 기획안
 
-<img src="https://user-images.githubusercontent.com/74331917/190235843-9f0c0b87-328f-4f17-90b4-a1081dc4cf75.jpg" width="700" height="600"/>
-<img src="https://user-images.githubusercontent.com/74331917/190235853-017f28b6-6cfb-403b-b963-2073195d733d.jpg" width="700" height="600"/>
-<a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/%EC%B5%9C%EC%A2%85%20%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5.png"><sub><b>자세히보기</b></sub></a>
-
-<hr>
