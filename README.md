@@ -78,3 +78,22 @@
 - 협업자들 프로필 표시해주기
 
 - 당근마켓 온도기능
+
+![굿즈 판매 기능](https://img.shields.io/badge/굿즈판매기능-edacb1?style=flat-square&logo=Atom&logoColor=white)
+
+- 요즘 굿즈나 핸드메이드가 유행중입니다.
+
+1. 홍보 포스터 및 굿즈 판매 구체화 부분
+- 쇼핑몰 형식의 개인 구매
+- 클라우드 펀딩 와디즈
+
+![홍보 포스터 올리기 기능](https://img.shields.io/badge/포스터홍보기능-edacb1?style=flat-square&logo=MusicBrainz&logoColor=white)
+
+- 포스터를 올려 버스킹 홍보를 할 수 있게 하는 기능
+
+
+# 게시판 구체화
+
+![움악 올리는 게시판](https://img.shields.io/badge/음악게시판-83dcb7?style=flat-square&logo=Hyper&logoColor=white)
+
+- 사운드 클라우드 HTML소스를 임베드해오는 형식
