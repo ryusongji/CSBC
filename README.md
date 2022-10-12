@@ -124,3 +124,6 @@
 # 사용자 프로필 구체화
 
 ![사용자 프로필](https://img.shields.io/badge/사용자프로필-7ce3e1?style=flat-square&logo=ApacheMaven&logoColor=white)
+
+- 작업 프로필 신뢰성을 위하여 오픈 api를 이용하여 여러 플랫폼을 연결하여 그 사람의 경력을 보여줍니다.
+- 
