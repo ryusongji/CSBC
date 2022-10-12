@@ -291,4 +291,6 @@
 
 ### 관련 자료 및 참고 사이트
 
+[인디음악의 시장성][(https://blog.naver.com/sigmagil/221523078541) ]
+[핸드메이드의 시장성][[(https://blog.naver.com/sigmagil/221523078541) ]
 
