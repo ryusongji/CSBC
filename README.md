@@ -6,6 +6,6 @@
 과제를 혼자 진행함에 따라 많은 분들의 걱정을 받게 되어 혼자서도 잘 할 수 있다는 각오와 의지를 담아 ‘혼자서도 잘해요’라는 이름으로 결정했습니다.
 
 # 프로젝트 개요
-[![태그이름](https://img.shields.io/badge/태그에 적히는 글씨-태그색?style=flat-square&logo=로고이름&logoColor=로고색)](관련된 내 링크)CSBC
+[![Android](https://img.shields.io/badge/CSBC-F7DF1E?style=flat-square&logo=Android&logoColor=black)
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
