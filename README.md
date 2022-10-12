@@ -57,7 +57,7 @@
 
 # 프로젝트 강점
 
-![협업커뮤니티기능](https://img.shields.io/badge/협업커뮤니티기능-edacb1?style=flat-square&logo=TheConversation&logoColor=white)
+![협업 커뮤니티 기능](https://img.shields.io/badge/협업커뮤니티기능-edacb1?style=flat-square&logo=TheConversation&logoColor=white)
 
 
 ![수익성](https://img.shields.io/badge/수익성-f0b49a?style=flat-square&logo=WebMoney&logoColor=white)
