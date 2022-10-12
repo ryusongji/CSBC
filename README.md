@@ -127,5 +127,5 @@
 
 - 작업 프로필 신뢰성을 위하여 오픈 api를 이용하여 여러 플랫폼을 연결하여 그 사람의 경력을 보여줍니다.
 
-<img src=(https://github.com/ryusongji/CSBC/blob/main/%EC%A0%95%EB%B3%B4%EC%A1%B0%EC%82%AC/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%20%EA%B2%B0%EA%B3%BC.png) width="700" height="600"/>
+<img src=https://github.com/ryusongji/CSBC/blob/main/%EC%A0%95%EB%B3%B4%EC%A1%B0%EC%82%AC/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%20%EA%B2%B0%EA%B3%BC.png width="700" height="600"/>
 
