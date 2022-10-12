@@ -197,7 +197,7 @@
 <img src=https://github.com/ryusongji/CSBC/blob/main/%ED%9A%8C%EC%9D%98%EC%9E%90%EB%A3%8C/%EC%9D%8C%EC%95%85%20%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5.png width="1000" height="600"/>
 <hr>
 
- ### 💬 3. 브레인 스토밍
+ ### 💬 2. 브레인 스토밍
  #### 🚩정의
  - 두뇌에서 일어나는 폭풍
  - 창조 능력 개발법
@@ -209,7 +209,7 @@
  - 결합과 개선
 <hr>
 
-### 💬 4. KJ-MAPPING
+### 💬 3. KJ-MAPPING
 #### 🚩정의
 - 세계적으로 알려져 있는 문화인류학 학자이며, 일본 동경 공업대학 명예교수인 가와기타 지로씨가 64년에 영문 성명의 머리글자를 따서 발표한 정리법입니다.
 - 어떤 테마에 대해 다양한 각도에서 수집된 각 개인의 생각이나 정보를 CARD에 기입하고 뒤섞은 다음 GROUPING을 하고, 특성 요인도를 활용하여 문제의 전체를 구조화 시켜 진짜 원인이 되는 문제점을 발견하는 발상법
@@ -249,7 +249,7 @@
 
 <hr>
 
-### 💬 5. 여섯색깔모자
+### 💬 4. 여섯색깔모자
  ![image](https://user-images.githubusercontent.com/53076307/189956660-53b8400f-b679-43c4-91b6-c009600d0f3d.png)
 
 <a href="https://github.com/ryusongji/new-stone-king-s/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8C%8C%EC%9D%BC/%EC%97%AC%EC%84%AF%EB%AA%A8%EC%9E%90%EC%83%89%EA%B9%94%EA%B8%B0%EB%B2%95.PNG"><sub><b>자세히보기</b></sub></a>
@@ -295,5 +295,6 @@
 
 <hr>
 
-### 💬 6. 최종 기획안
+### 관련 자료 및 참고 사이트
+
 
