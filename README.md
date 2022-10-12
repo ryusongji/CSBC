@@ -5,6 +5,8 @@
 부득이한 사유로 조별 과제를 개인으로 진행하게 된 8조 류송지입니다. 
 과제를 혼자 진행함에 따라 많은 분들의 걱정을 받게 되어 혼자서도 잘 할 수 있다는 각오와 의지를 담아 ‘혼자서도 잘해요’라는 이름으로 결정했습니다.
 
+<hr>
+
 # 프로젝트 개요
 ![CBSC](https://img.shields.io/badge/CSBC-F7DF1E?style=flat-square&logo=Android&logoColor=white)
 
@@ -26,6 +28,7 @@
 
 - 음악, 미술 등 예술 분야에 취미를 가지고 있거나 종사하는 사람들
 
+<hr>
 
 # 수익성 및 기능
 
@@ -54,6 +57,8 @@
 
 5. 굿즈 판매 기능
 - 아래 부연 설명
+
+<hr>
 
 # 프로젝트 강점
 
@@ -91,6 +96,7 @@
 
 - 포스터를 올려 버스킹 홍보를 할 수 있게 하는 기능
 
+<hr>
 
 # 게시판 구체화
 
@@ -121,6 +127,8 @@
 - 와디즈 크라우드 펀딩
 - 오픈 마켓
 
+<hr>
+
 # 사용자 프로필 구체화
 
 ![사용자 프로필](https://img.shields.io/badge/사용자프로필-7ce3e1?style=flat-square&logo=ApacheMaven&logoColor=white)
@@ -129,6 +137,8 @@
 - 당근마켓처럼 매너 온도를 추가해서 신뢰도를 높여줍니다.
 
 <img src=https://github.com/ryusongji/CSBC/blob/main/%EC%A0%95%EB%B3%B4%EC%A1%B0%EC%82%AC/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%20%EA%B2%B0%EA%B3%BC.png width="700" height="600"/>
+
+<hr>
 
 # 회의록
 
