@@ -215,7 +215,7 @@
  - 질보다는 양
  - 결합과 개선
  
- <img src=https://github.com/ryusongji/CSBC/blob/main/%ED%9A%8C%EC%9D%98%EC%9E%90%EB%A3%8C/CSBC(Create%20Story%20Board%20Cloud)%20%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5.png width="1000" height="600"/>
+ <img src=https://github.com/ryusongji/CSBC/blob/main/%ED%9A%8C%EC%9D%98%EC%9E%90%EB%A3%8C/%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8DCSBC.PNG width="1000" height="600"/>
  
 <hr>
 
