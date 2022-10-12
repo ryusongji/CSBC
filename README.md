@@ -60,7 +60,7 @@
 ![협업커뮤니티기능](https://img.shields.io/badge/협업커뮤니티기능-edacb1?style=flat-square&logo=The Conversation&logoColor=white)
 
 
-![수익성](https://img.shields.io/badge/수익성-f0b49a?style=flat-square&logo=WebMoney&logoColor=white)
+![수익성](https://img.shields.io/badge/수익성-f0b49a?style=flat-square&logo=TheConversation&logoColor=white)
 
 
 - 기능 파트에 기술된 대부분의 내용이 기존에 Soundcloud 라는 플랫폼에서 제공되는 것과 다른 부분이 없습니다. 다른 부가적인 기능들 보다 '협업'과 같은 파트에 비중이 실리게 하려고합니다.
