@@ -257,6 +257,9 @@
 - 그룹핑 과정에서의 발상을 중요시한다.
 - 우선 섬을 만들어 전체를 파악하고 각 섬의 상위 레벨을 생각한다.
 
+ <img src=https://github.com/ryusongji/CSBC/blob/main/%ED%9A%8C%EC%9D%98%EC%9E%90%EB%A3%8C/KJ_CSBC.PNG
+ width="1000" height="600"/>
+
 <hr>
 
 ### 💬 4. 여섯색깔모자
