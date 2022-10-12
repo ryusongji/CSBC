@@ -182,9 +182,9 @@
 - 각 가지당 하나의 키워드만 사용
 
 #### 🚩 초반 기획안 관련 마인드맵
-<img src=https://github.com/ryusongji/CSBC/blob/main/%ED%9A%8C%EC%9D%98%EC%9E%90%EB%A3%8C/CSBC(Create%20Story%20Board%20Cloud)%20%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5.png width="700" height="600"/>
+<img src=https://github.com/ryusongji/CSBC/blob/main/%ED%9A%8C%EC%9D%98%EC%9E%90%EB%A3%8C/CSBC(Create%20Story%20Board%20Cloud)%20%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5.png width="1000" height="600"/>
 #### 🚩 유사 사이트 관련 마인드맵(사운드클라우드)
-<img src=https://github.com/ryusongji/CSBC/blob/main/%ED%9A%8C%EC%9D%98%EC%9E%90%EB%A3%8C/%EC%9D%8C%EC%95%85%20%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5.png width="700" height="600"/>
+<img src=https://github.com/ryusongji/CSBC/blob/main/%ED%9A%8C%EC%9D%98%EC%9E%90%EB%A3%8C/%EC%9D%8C%EC%95%85%20%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5.png width="1000" height="600"/>
 <hr>
 
  ### 💬 3. 브레인 스토밍
