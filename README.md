@@ -32,7 +32,7 @@
 ![수익성](https://img.shields.io/badge/수익성-f0b49a?style=flat-square&logo=WebMoney&logoColor=white)
 
 1. 배너 광고 – 광고 대행사, 음향사 등의 기업의 광고를 배너에 삽입합니다.
-2. 중개비 – 음악 장비 및 장소를 대여해주는 업체와 계약해 사용자가 원할 때 서비스를 제공받을 수 있도록 하여 업체의 수요를 높일 수 있도록 합니다. 
+2. 중개비 – 굿즈판매, 음악 장비 및 장소를 대여해주는 업체와 계약해 사용자가 원할 때 서비스를 제공받을 수 있도록 하여 업체의 수요를 높일 수 있도록 합니다. 
 
 ![기능](https://img.shields.io/badge/기능-f0b49a?style=flat-square&logo=1001Tracklists&logoColor=white)
 
@@ -121,3 +121,6 @@
 - 와디즈 크라우드 펀딩
 - 오픈 마켓
 
+# 사용자 프로필 구체화
+
+![사용자 프로필](https://img.shields.io/badge/사용자 프로필-7ce3e1?style=flat-square&logo=ApacheMaven&logoColor=white)
