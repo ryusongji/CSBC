@@ -94,6 +94,30 @@
 
 # 게시판 구체화
 
-![움악 올리는 게시판](https://img.shields.io/badge/음악게시판-83dcb7?style=flat-square&logo=Hyper&logoColor=white)
+![음악 올리는 게시판](https://img.shields.io/badge/음악게시판-83dcb7?style=flat-square&logo=Hyper&logoColor=white)
 
 - 사운드 클라우드 HTML소스를 임베드해오는 형식
+
+![협작 게시판](https://img.shields.io/badge/협작게시판-83dcb7?style=flat-square&logo=Hyper&logoColor=white)
+
+1. 협작을 할 수 있도록 사람을 구하는 랜딩형식의 게시판
+- 협업 플랫폼 참고
+
+2. 협업 작품을 올릴 수 있는 게시판
+
+- 게시판에 참여자 태깅하면 각자 프로필에 그 음악이 표시
+** 사클에는 한명이 올리면 못 올리기땜에 대표자가 게시글을 쓰게 한다.
+
+![중고 거래 게시판](https://img.shields.io/badge/중고거래게시판-83dcb7?style=flat-square&logo=Hyper&logoColor=white)
+
+- 네이버 중고나라
+
+![포스터 홍보 게시판](https://img.shields.io/badge/포스터홍보게시판-83dcb7?style=flat-square&logo=Hyper&logoColor=white)
+
+- 인스타그램 형식
+
+![굿즈 판매 게시판](https://img.shields.io/badge/굿즈판매게시판-83dcb7?style=flat-square&logo=Hyper&logoColor=white)
+
+- 와디즈 크라우드 펀딩
+- 오픈 마켓
+
