@@ -126,6 +126,7 @@
 ![사용자 프로필](https://img.shields.io/badge/사용자프로필-7ce3e1?style=flat-square&logo=ApacheMaven&logoColor=white)
 
 - 작업 프로필 신뢰성을 위하여 오픈 api를 이용하여 여러 플랫폼을 연결하여 그 사람의 경력을 보여줍니다.
+- 당근마켓처럼 매너 온도를 추가해서 신뢰도를 높여줍니다.
 
 <img src=https://github.com/ryusongji/CSBC/blob/main/%EC%A0%95%EB%B3%B4%EC%A1%B0%EC%82%AC/%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%20%EA%B2%B0%EA%B3%BC.png width="700" height="600"/>
 
