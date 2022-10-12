@@ -8,4 +8,5 @@
 # 프로젝트 개요
 ![CBSC](https://img.shields.io/badge/CSBC-F7DF1E?style=flat-square&logo=Android&logoColor=black)
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+- CSBC는 이야기를 만들어가는 공간이라는 의미를 가지는 ‘Create StoryBoard Cloud’의 줄임말입니다.
+- 음악을 중심으로 구축되는 플랫폼이며, 음악에 관한 영상, 그림, 커버 등을 게시해 사람들과 협업할 수 있는 기능을 제공하는 사이트입니다.
